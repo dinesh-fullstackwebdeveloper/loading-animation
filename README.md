@@ -24,7 +24,7 @@ To use this loading animation in your project:
 
 1. 📥 **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/dinesh-fullstackwebdeveloper/loading-animation.git
    ```
 2. 🌐 **Open the `index.html` file** in your preferred browser to see the loading animation in action.
 3. 🎨 **Customize the styles** by editing the `style.css` file.
